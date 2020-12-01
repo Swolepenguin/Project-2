@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Swolepenguin/Project-2#readme",
   "dependencies": {
+    "axios": "^0.21.0",
     "dotenv": "^8.2.0",
     "ejs": "^3.1.5",
     "ejs-layouts": "0.0.1",
