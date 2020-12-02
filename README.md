@@ -1,1 +1,2 @@
 # Project-2
+forGamers is an app where gamers can find out which game is the next game for them. A game where you know it would be money and time well spent. As a gamer myself id appreciate an app like this so that i can read about how the unfiltered players reacted to the game and whether or not the game is actually worth it  
